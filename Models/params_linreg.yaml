@@ -1,0 +1,7 @@
+LinearRegression: {}
+features:
+- macd1226
+- volume
+train_test_split:
+  random_state: 0
+  test_size: 0.2

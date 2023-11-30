@@ -1,0 +1,8 @@
+PCA:
+  n_components: 5
+RandomForest:
+  n_estimators: 50
+  random_state: 42
+train_test_split:
+  random_state: 42
+  test_size: 0.2

@@ -1,0 +1,5 @@
+model:
+  epochs: 50
+steps: 10
+train_test_split:
+  Training_size_ratio: 0.7
